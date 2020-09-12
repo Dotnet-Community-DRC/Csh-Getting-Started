@@ -14,7 +14,7 @@ the notion we will be introducing are:
 - Understanding of classes
 - Generics
 - delegates
-- link
+- linq
 - lambda expressions
 - some frameworks
 
