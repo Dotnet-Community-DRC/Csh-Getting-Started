@@ -1,10 +1,10 @@
 # Csh-Getting-Started
 
-C# inition project from beginner.
+C# inition project for beginner.
 
 ### Notions
 
-the notion we will be introducing are:
+These notions will cover areas such:
 
 - types
 - conditional statements
