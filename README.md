@@ -36,7 +36,7 @@ The project is public
 
 👤 David Sudi
 
-- Github: @SudiDav [@paulmupenda](https://github.com/SudiDav)
+- Github: @SudiDav [@SudiDav](https://github.com/SudiDav)
 - Twitter: [@Sudi_Dav](https://twitter.com/Sudi_Dav)
 - Linkedin: [Sudi David](https://www.linkedin.com/in/sudi-david-5887b5102/)
 
