@@ -140,7 +140,7 @@ var app = builder.Build();
 
 app.MapGet("/", async (AppDbContext db) => await db.Recipes.ToListAsync());
 
-app.MapGet("/recipes/{id}", (AppDbContext db, int id) =>
+app.MapGet("/recipes/{id}", async (AppDbContext db, int id) =>
 {
     var recipe = await db.Recipes.FindAsync(id);
     if (recipe is null)
