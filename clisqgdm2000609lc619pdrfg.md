@@ -1,8 +1,8 @@
 ---
-title: "Part 1 . Getting started with ASP.NET Core 7 Minimal APIs"
+title: "Getting started with ASP.NET Core 7 Minimal APIs"
 datePublished: Mon Jun 12 2023 10:50:15 GMT+0000 (Coordinated Universal Time)
 cuid: clisqgdm2000609lc619pdrfg
-slug: part-1-getting-started-with-aspnet-core-7-minimal-apis
+slug: getting-started-with-aspnet-core-7-minimal-apis
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/xG8IQMqMITM/upload/1e2882f6942a1fff70d47469b37fdb6e.jpeg
 tags: csharp, net, aspnet-core, getting-started, minimal-apis
 
